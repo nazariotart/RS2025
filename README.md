@@ -1,4 +1,4 @@
-This repository contains some data obtained for the following paper:
+This repository contains some classification data for the following paper:
 
 "Comparing Multi-Training and Multi-Projection Approaches in Random Forest Classification for Earth Observation Land Cover Analysis"
 
